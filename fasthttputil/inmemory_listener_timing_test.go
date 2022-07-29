@@ -4,7 +4,7 @@ import (
 	"net"
 	"testing"
 
-	"github.com/valyala/fasthttp"
+	"github.com/kampaidev/fasthttp"
 	"github.com/valyala/fasthttp/fasthttputil"
 
 	tls "github.com/refraction-networking/utls"
